@@ -3,7 +3,7 @@ require "formula"
 class Meteor < Formula
   homepage "https://www.meteor.com"
   url "https://d3sqy0vbqsdhku.cloudfront.net/packages-bootstrap/1.0/meteor-bootstrap-os.osx.x86_64.tar.gz", :using => :nounzip
-  sha1 "795908ab21b26e57d09e0c289b6279a125ef6e2f"
+  sha256 "1da46f3614a83715c3b3f58f80a193dea89aa6eb221061396de6e005be9e4e79"
   version "1.0"
 
   def install
